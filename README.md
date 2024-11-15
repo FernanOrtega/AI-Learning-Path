@@ -46,7 +46,7 @@ Otros:
 ## TO REVIEW. Source: https://www.reddit.com/r/MachineLearning/comments/17u7b19/d_genaillm_interview_prep/
 LLM:
 - https://rentry.org/llm-training
-- Challenges and Applications of Large Language Models
+- [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
 - https://github.com/bkitano/llama-from-scratch
 - https://github.com/rasbt/LLMs-from-scratch
 - https://github.com/mlabonne/llm-course
