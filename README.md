@@ -42,3 +42,28 @@ Otros:
 - https://keras.io/ -> framework a alto nivel para deep learning (utiliza Tensorflow como base)
 - https://pytorch.org/ -> otra librería de deep learning, últimamente está usándose más que Tensorflow
 - https://www.rungalileo.io/blog
+
+## TO REVIEW. Source: https://www.reddit.com/r/MachineLearning/comments/17u7b19/d_genaillm_interview_prep/
+LLM:
+- https://rentry.org/llm-training
+- Challenges and Applications of Large Language Models
+- https://github.com/bkitano/llama-from-scratch
+- https://github.com/rasbt/LLMs-from-scratch
+- https://github.com/mlabonne/llm-course
+- https://github.com/huggingface/alignment-handbook
+- https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
+- https://www.philschmid.de/tags/generativeai
+- https://difficult-link-dd7.notion.site/Wei-Shen-s-LLM-Blog-dc1c32b03e0e4f84b368dbd09ee9479a
+- https://web.stanford.edu/class/cs224n/ and 224u, 224v
+- https://eugeneyan.com/writing/llm-patterns/ (many other good blogposts)
+- https://huyenchip.com/2023/04/11/llm-engineering.html
+- https://lilianweng.github.io
+- https://hamel.dev/notes/llm
+- https://github.com/underlines/awesome-ml/blob/master/llm-tools.md
+
+RAG stuff(sentence embedding, vector db):
+- https://www.pinecone.io/learn/
+- https://www.sbert.net/
+- https://haystackconf.com/us2023/keynote/
+- https://www.latent.space/p/llamaindex#details
+
