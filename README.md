@@ -66,4 +66,12 @@ RAG stuff(sentence embedding, vector db):
 - https://www.sbert.net/
 - https://haystackconf.com/us2023/keynote/
 - https://www.latent.space/p/llamaindex#details
+- 
+
+Otros:
+- https://www.youtube.com/watch?v=fNk_zzaMoSs
+- https://www.youtube.com/@statquest ****
+- https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+- https://www.youtube.com/playlist?list=PLPTV0NXA_ZSjs5Dz7FfPCzV3BKC7CtJU1
+- https://bbycroft.net/llm
 
