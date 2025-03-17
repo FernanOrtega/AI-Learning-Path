@@ -42,6 +42,7 @@ Otros:
 - https://keras.io/ -> framework a alto nivel para deep learning (utiliza Tensorflow como base)
 - https://pytorch.org/ -> otra librería de deep learning, últimamente está usándose más que Tensorflow
 - https://www.rungalileo.io/blog
+- https://github.com/rasbt/LLMs-from-scratch
 
 ## TO REVIEW. Source: https://www.reddit.com/r/MachineLearning/comments/17u7b19/d_genaillm_interview_prep/
 LLM:
