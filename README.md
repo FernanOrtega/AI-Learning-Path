@@ -76,3 +76,61 @@ Otros:
 - https://www.youtube.com/playlist?list=PLPTV0NXA_ZSjs5Dz7FfPCzV3BKC7CtJU1
 - https://bbycroft.net/llm
 
+## Visión
+- https://stable-diffusion-art.com/stable-diffusion-courses/
+- https://www.youtube.com/watch?v=sHnBnAM4nYM
+- https://www.stablediffusiontutorials.com/2024/08/ip-adapter-controlnet-lora-for-flux.html
+- https://comfyui-wiki.com/es/tutorial/advanced/flux1-comfyui-guide-workflow-and-examples
+- https://www.youtube.com/playlist?list=PLjC8P1vEncQDahWnl_WKYsjF_tmIDXWEa
+- https://www.youtube.com/watch?v=HtmIC6fqsMQ
+- https://www.youtube.com/watch?v=hTSt0yCY-oE
+- https://www.youtube.com/watch?v=PfbLqpaecH0
+- https://www.youtube.com/watch?v=E7PWx6WTY_c&list=PLfteGfwwn1dkBUS54_YMelMijmjzuga_v
+- https://www.youtube.com/watch?v=Zko_s2LO9Wo&list=PL-pohOSaL8P9kLZP8tQ1K1QWdZEgwiBM0
+- https://learn.thinkdiffusion.com/
+
+## Recopilados para los learning paths (a ordenar)
+Bloque	Link
+Intro a IA Generativa	https://www.deeplearning.ai/courses/generative-ai-for-everyone/
+Fundamentos de DL	https://www.deeplearning.ai/courses/deep-learning-specialization/
+	https://www.fast.ai/
+	https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
+	https://huggingface.co/learn/nlp-course
+	
+	
+Series temporales	https://www.coursera.org/learn/practical-time-series-analysis
+	https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
+	https://www.kaggle.com/learn/data-cleaning
+	https://www.coursera.org/professional-certificates/data-analytics
+Modelos de clasificación	https://www.coursera.org/learn/ml-classification
+	https://www.datacamp.com/blog/how-to-learn-machine-learning
+	https://www.analyticsvidhya.com/blog/2020/01/computer-vision-learning-path/
+Estadística avanzada	https://www.coursera.org/learn/machine-learning-probability-and-statistics
+Data Validation & Cleaning	https://www.coursera.org/learn/data-io-and-processing-with-python-and-sql
+	
+NLP	https://www.coursera.org/specializations/natural-language-processing
+LLMs	https://www.datacamp.com/courses/large-language-models-llms-concepts
+Gen AI for NLP	https://www.coursera.org/learn/generative-ai-with-llms
+	https://www.udemy.com/course/applied-nlp-with-python/
+Agentic GenAI	https://www.udemy.com/course/ai-agents-automation-business-with-langchain-llm-apps
+	https://huggingface.co/learn/agents-course/
+	
+	
+	https://www.udemy.com/course/computer-vision-con-python/
+	https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/
+	https://www.coursera.org/learn/introduction-computer-vision-watson-opencv
+	https://www.coursera.org/learn/cameraandimaging
+	https://www.coursera.org/learn/features-and-boundaries
+Procesamiento de imágenes	https://www.coursera.org/learn/procesamiento-de-imagenes
+	https://www.datacamp.com/courses/image-processing-in-python
+	https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning
+	https://www.coursera.org/specializations/deep-learning-computer-vision
+	https://www.udacity.com/course/advanced-computer-vision-and-deep-learning--cd0361
+Computer Vision with DL	https://huggingface.co/learn/computer-vision-course
+	https://www.youtube.com/watch?v=E7PWx6WTY_c&list=PLfteGfwwn1dkBUS54_YMelMijmjzuga_v
+	https://www.youtube.com/watch?v=Zko_s2LO9Wo&list=PL-pohOSaL8P9kLZP8tQ1K1QWdZEgwiBM0
+	https://www.youtube.com/@MunKaw-ui/featured
+	https://www.youtube.com/@Aiconomist/playlists
+	https://www.reddit.com/r/StableDiffusion/?rdt=36184
+	https://www.reddit.com/r/FluxAI/
+	https://stable-diffusion-art.com/stable-diffusion-courses/
